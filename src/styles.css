@@ -1,1 +1,26 @@
-/* You can add global styles to this file, and also import other style files */
+:root{
+  --primary:#0A84FF;
+  --dark:#0A0A0A;
+  --white:#ffffff;
+}
+
+html{
+  scroll-behavior:smooth;
+}
+
+body{
+  font-family:'Poppins', sans-serif;
+  background:#ffffff;
+  color:#0A0A0A;
+}
+
+h1,h2,h3,h4,h5{
+  font-weight:600;
+}
+
+.section-title{
+  font-size:34px;
+  font-weight:700;
+  color:#0A0A0A;
+}
+

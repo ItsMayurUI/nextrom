@@ -1,0 +1,33 @@
+.projects-hero{
+  background:#0A0A0A;
+  color:white;
+  padding:100px 0;
+}
+
+.projects-grid{
+  padding:80px 0;
+}
+
+.project-card{
+  background:white;
+  border-radius:12px;
+  overflow:hidden;
+  box-shadow:0 5px 25px rgba(0,0,0,.05);
+  transition:.3s;
+  text-align:center;
+}
+
+.project-card:hover{
+  transform:translateY(-6px);
+  box-shadow:0 15px 40px rgba(0,0,0,.1);
+}
+
+.project-img{
+  height:200px;
+  background:linear-gradient(135deg,#0A84FF20,#00000010);
+}
+
+.project-card h5{
+  padding:20px;
+  font-weight:600;
+}

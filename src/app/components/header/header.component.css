@@ -1,0 +1,26 @@
+.navbar{
+  background:#0A0A0A !important;
+}
+
+.navbar-brand{
+  color:#0A84FF !important;
+  letter-spacing:1px;
+}
+
+.nav-link{
+  color:#fff !important;
+  margin:0 10px;
+}
+
+.nav-link:hover{
+  color:#0A84FF !important;
+}
+
+.btn-primary{
+  background:#0A84FF;
+  border:none;
+}
+
+.btn-primary:hover{
+  background:#0066d6;
+}
